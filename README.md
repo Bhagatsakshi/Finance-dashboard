@@ -73,5 +73,3 @@ http://localhost:3000
 ## Live Demo
 
 https://finance-dashboard-git-main-bhagatsakshis-projects.vercel.app/
-
----
